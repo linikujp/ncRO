@@ -1,0 +1,9 @@
+http://purl.obolibrary.org/obo/SO_3000001 #sequence
+http://purl.obolibrary.org/obo/SO_3000060 #RNA sequence
+http://purl.obolibrary.org/obo/SO_3000033 #ribonucleic acid
+http://purl.obolibrary.org/obo/SO_0000673 #transcipt
+http://purl.obolibrary.org/obo/SO_0000233 #mature transcript
+http://purl.obolibrary.org/obo/SO_0000655 #ncRNA
+http://purl.obolibrary.org/obo/SO_3000027 #nucleic acid subsequence
+http://purl.obolibrary.org/obo/SO_0000370 #small regulatory ncRNA
+http://purl.obolibrary.org/obo/SO_0000234 #mRNA

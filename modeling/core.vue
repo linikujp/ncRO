@@ -1,17 +1,18 @@
-<!-- Tufts VUE 3.2.2 concept-map (core.vue) 2015-05-15 -->
+<!-- Tufts VUE 3.2.2 concept-map (core.vue) 2015-05-16 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/C:/Program%20Files%20(x86)/VUE/VUE.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Fri May 15 20:56:10 CDT 2015 by yuln on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
+<!-- Do Not Remove: Saved date Sat May 16 22:46:16 CDT 2015 by yuln on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built May 23 2013 at 2146 by tomadm on Linux 2.6.18-348.2.1.el5 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="none" ID="0" label="core.vue"
     created="1431734769931" x="0.0" y="0.0" width="1.4E-45"
     height="1.4E-45" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1431741370978"
-        spec="C:\Users\yuln\Documents\ncRO\core.vue" type="1" xsi:type="URLResource">
+    <resource referenceCreated="1431834376397" size="24767"
+        spec="C:\Users\yuln\Documents\GitHub\ncRO\modeling\core.vue"
+        type="1" xsi:type="URLResource">
         <title>core.vue</title>
-        <property key="File" value="C:\Users\yuln\Documents\ncRO\core.vue"/>
+        <property key="File" value="C:\Users\yuln\Documents\GitHub\ncRO\modeling\core.vue"/>
     </resource>
     <fillColor>#FFFFFF</fillColor>
     <strokeColor>#404040</strokeColor>
@@ -62,7 +63,7 @@
         <ID2 xsi:type="node">6</ID2>
     </child>
     <child ID="13" label="is_a" layerID="1" created="1431734908803"
-        x="392.6667" y="121.83331" width="21.0" height="17.333374"
+        x="393.1667" y="121.83331" width="20.0" height="17.333374"
         strokeWidth="1.0" autoSized="false" controlCount="0"
         arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
@@ -85,7 +86,7 @@
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
     <child ID="15" label="is_a" layerID="1" created="1431734943996"
-        x="379.66666" y="161.1665" width="21.0" height="23.333496"
+        x="380.16666" y="161.1665" width="20.0" height="23.333496"
         strokeWidth="1.0" autoSized="false" controlCount="0"
         arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
@@ -131,7 +132,7 @@
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
     <child ID="19" label="is_a" layerID="1" created="1431735351965"
-        x="315.1667" y="250.5" width="21.0" height="27.333008"
+        x="315.6667" y="250.5" width="20.0" height="27.333008"
         strokeWidth="1.0" autoSized="false" controlCount="0"
         arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
@@ -154,7 +155,7 @@
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
     <child ID="21" label="is_a" layerID="1" created="1431736153561"
-        x="316.08334" y="299.83594" width="21.0" height="24.0"
+        x="316.58334" y="299.83594" width="20.0" height="24.0"
         strokeWidth="1.0" autoSized="false" controlCount="0"
         arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
@@ -177,7 +178,7 @@
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
     <child ID="23" label="is_a" layerID="1" created="1431736171124"
-        x="317.0" y="345.833" width="21.0" height="26.666992"
+        x="317.5" y="345.833" width="20.0" height="26.666992"
         strokeWidth="1.0" autoSized="false" controlCount="0"
         arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
@@ -200,7 +201,7 @@
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
     <child ID="25" label="is_a" layerID="1" created="1431736213112"
-        x="319.08328" y="394.5" width="21.0" height="27.333496"
+        x="319.58328" y="394.5" width="20.0" height="27.333496"
         strokeWidth="1.0" autoSized="false" controlCount="0"
         arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
@@ -223,7 +224,7 @@
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
     <child ID="27" label="is_a" layerID="1" created="1431736242101"
-        x="318.75" y="443.8335" width="21.0" height="23.333008"
+        x="319.25" y="443.8335" width="20.0" height="23.333008"
         strokeWidth="1.0" autoSized="false" controlCount="0"
         arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
@@ -363,7 +364,7 @@
         <ID2 xsi:type="node">37</ID2>
     </child>
     <child ID="40" label="is_a" layerID="1" created="1431739083223"
-        x="740.50134" y="175.16797" width="21.0" height="25.332031"
+        x="741.00134" y="175.16797" width="20.0" height="25.332031"
         strokeWidth="1.0" autoSized="false" controlCount="0"
         arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
@@ -376,7 +377,7 @@
         <ID2 xsi:type="node">36</ID2>
     </child>
     <child ID="43" label="inverse properties" layerID="1"
-        created="1431739615454" x="571.527" y="214.9653" width="89.0"
+        created="1431739615454" x="572.027" y="214.9653" width="88.0"
         height="62.754272" strokeWidth="1.0" strokeStyle="2"
         autoSized="false" controlCount="0" arrowState="0" xsi:type="link">
         <strokeColor>#DD7B11</strokeColor>
@@ -440,7 +441,7 @@
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
     <child ID="48" label="is_a" layerID="1" created="1431740743700"
-        x="770.0" y="328.5" width="21.0" height="26.0" strokeWidth="1.0"
+        x="770.5" y="328.5" width="20.0" height="26.0" strokeWidth="1.0"
         autoSized="false" controlCount="0" arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
         <textColor>#404040</textColor>
@@ -498,7 +499,7 @@
         <ID2 xsi:type="node">24</ID2>
     </child>
     <child ID="53" label="ncRO:miRNA target gene&#xa;primary transcript"
-        layerID="1" created="1431741082526" x="706.0" y="403.33334"
+        layerID="1" created="1431741082526" x="751.0" y="412.33334"
         width="149.0" height="38.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
         <fillColor>#FDE888</fillColor>
         <strokeColor>#000000</strokeColor>
@@ -507,45 +508,44 @@
         <URIString>http://vue.tufts.edu/rdf/resource/5a6f92b40a147a5701bb3ae4aff4db67</URIString>
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
-    <child ID="54" label="SO:transcribed to" layerID="1"
-        created="1431741118155" x="738.34894" y="376.5" width="86.0"
-        height="27.333984" strokeWidth="1.0" autoSized="false"
-        controlCount="0" arrowState="2" xsi:type="link">
-        <strokeColor>#404040</strokeColor>
-        <textColor>#404040</textColor>
-        <font>Arial-plain-11</font>
-        <URIString>http://vue.tufts.edu/rdf/resource/5a6f92b50a147a5701bb3ae4d890091a</URIString>
-        <point1 x="781.6965" y="377.0"/>
-        <point2 x="781.0014" y="403.33398"/>
-        <ID1 xsi:type="node">47</ID1>
-        <ID2 xsi:type="node">53</ID2>
-    </child>
     <child ID="55" label="SO:derived from" layerID="1"
-        created="1431741189131" x="637.50073" y="440.83337"
-        width="131.86664" height="35.123962" strokeWidth="1.0"
+        created="1431741189131" x="637.50073" y="449.83334"
+        width="149.2793" height="26.372223" strokeWidth="1.0"
         autoSized="false" controlCount="2" arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
         <textColor>#404040</textColor>
         <font>Arial-plain-11</font>
         <URIString>http://vue.tufts.edu/rdf/resource/5a6f92b50a147a5701bb3ae4c253e986</URIString>
         <point1 x="638.00073" y="475.45734"/>
-        <point2 x="768.8674" y="441.33337"/>
+        <point2 x="786.28" y="450.33334"/>
         <ID1 xsi:type="node">49</ID1>
         <ID2 xsi:type="node">53</ID2>
         <ctrlPoint0 x="713.7709" y="476.49698" xsi:type="point"/>
         <ctrlPoint1 x="753.6913" y="466.12094" xsi:type="point"/>
     </child>
+    <child ID="56" label="is gene &#xa;template of mRNA" layerID="1"
+        created="1431818936329" x="573.8334" y="376.49997"
+        width="183.96149" height="86.16675" strokeWidth="1.0"
+        autoSized="false" controlCount="0" arrowState="2" xsi:type="link">
+        <strokeColor>#DD7B11</strokeColor>
+        <textColor>#DD7B11</textColor>
+        <font>Arial-plain-11</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/5ffab9360a147a5700373f86cc8c98ca</URIString>
+        <point1 x="757.29486" y="376.99997"/>
+        <point2 x="574.3334" y="462.16672"/>
+        <ID1 xsi:type="node">47</ID1>
+    </child>
     <layer ID="1" label="Layer 1" created="1431734769931" x="0.0"
         y="0.0" width="1.4E-45" height="1.4E-45" strokeWidth="0.0" autoSized="false">
         <URIString>http://vue.tufts.edu/rdf/resource/5a6f92b60a147a5701bb3ae4dfffb6d3</URIString>
     </layer>
-    <userZoom>1.5</userZoom>
+    <userZoom>1.0</userZoom>
     <userOrigin x="325.75" y="58.25"/>
     <presentationBackground>#202020</presentationBackground>
     <PathwayList currentPathway="0" revealerIndex="-1">
         <pathway ID="0" label="Untitled Pathway" created="1431734769931"
             x="0.0" y="0.0" width="1.4E-45" height="1.4E-45"
-            strokeWidth="0.0" autoSized="false" currentIndex="-1" open="true">
+            strokeWidth="0.0" autoSized="false" currentIndex="0" open="true">
             <strokeColor>#B3CC33CC</strokeColor>
             <textColor>#000000</textColor>
             <font>SansSerif-plain-14</font>
@@ -592,6 +592,6 @@
     </PathwayList>
     <date>2015-05-15</date>
     <modelVersion>6</modelVersion>
-    <saveLocation>C:\Users\yuln\Documents\ncRO</saveLocation>
-    <saveFile>C:\Users\yuln\Documents\ncRO\core.vue</saveFile>
+    <saveLocation>C:\Users\yuln\Documents\GitHub\ncRO\modeling</saveLocation>
+    <saveFile>C:\Users\yuln\Documents\GitHub\ncRO\modeling\core.vue</saveFile>
 </LW-MAP>
